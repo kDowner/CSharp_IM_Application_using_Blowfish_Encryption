@@ -1,0 +1,6 @@
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Server\Adv_Security-A1-Server\bin\Debug\Adv_Security-A1-Server.exe.config
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Server\Adv_Security-A1-Server\bin\Debug\Adv_Security-A1-Server.exe
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Server\Adv_Security-A1-Server\bin\Debug\Adv_Security-A1-Server.pdb
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Server\Adv_Security-A1-Server\obj\Debug\Adv_Security-A1-Server.csproj.CoreCompileInputs.cache
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Server\Adv_Security-A1-Server\obj\Debug\Adv_Security-A1-Server.exe
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Server\Adv_Security-A1-Server\obj\Debug\Adv_Security-A1-Server.pdb

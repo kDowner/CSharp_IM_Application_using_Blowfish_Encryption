@@ -1,0 +1,19 @@
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.exe.config
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.exe
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.pdb
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.csproj.CoreCompileInputs.cache
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.exe
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.pdb
+C:\Conestoga\Level 4\Advanced Computer Security\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.csprojAssemblyReference.cache
+C:\INFO2231_PROJECTS\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.exe.config
+C:\INFO2231_PROJECTS\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.exe
+C:\INFO2231_PROJECTS\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.pdb
+C:\INFO2231_PROJECTS\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.csproj.CoreCompileInputs.cache
+C:\INFO2231_PROJECTS\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.exe
+C:\INFO2231_PROJECTS\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.pdb
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.exe.config
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.exe
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Client\bin\Debug\Adv_Security-A1-Client.pdb
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.csproj.CoreCompileInputs.cache
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.exe
+C:\Users\squir\source\repos\assignment-1---encrypted-chat-sloggers\A1\Adv_Security-A1-Client\obj\Debug\Adv_Security-A1-Client.pdb
